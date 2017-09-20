@@ -12,6 +12,7 @@ public class addition {
 		int c = a + b;
 		System.out.println("the value of c is " +c);
 		System.out.println("Testing Integration");
+		System.out.println("Testing 2");
 
 	}
 
